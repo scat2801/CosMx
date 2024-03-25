@@ -1,4 +1,6 @@
-### Data analysis and visualisation pipeline for single-cell spatial transcriptomics data from CosMx
+### Data analysis and visualisation pipeline for CosMx single-cell spatial transcriptomics (scST) readout
+
+Version 0.9, M Chen, Imperial College, March 2024
 
 ### ModVoyager: 
 scST analysis and visualisation
