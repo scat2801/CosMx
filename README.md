@@ -1,4 +1,11 @@
-Data analysis and visualisation pipeline for single-cell spatial transcriptomics data from CosMx
+### Data analysis and visualisation pipeline for single-cell spatial transcriptomics data from CosMx
+
+### ModVoyager: 
+scST analysis and visualisation
+### DeSeq2Test: 
+DEG analysis 
+
+### Stopover: python implementation
 
 Installation Guide (STopover)
 
