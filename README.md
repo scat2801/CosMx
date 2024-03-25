@@ -3,9 +3,9 @@
 Version 0.9, M Chen, Imperial College, March 2024
 
 ### ModVoyager: 
-scST: QC, normalisation, analysis and visualisation
+scST: QC, integrated script for normalisation, analysis and visualisation (tested on public Nanostring data)
 ### DeSeq2Test: 
-DEG analysis 
+DEG analysis (tested on E-GEOD-50760 colorectal ca data)
 
 ### Stopover: python implementation
 
