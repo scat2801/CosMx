@@ -3,7 +3,7 @@
 Version 0.9, M Chen, Imperial College, March 2024
 
 ### ModVoyager: 
-scST analysis and visualisation
+scST: QC, normalisation, analysis and visualisation
 ### DeSeq2Test: 
 DEG analysis 
 
